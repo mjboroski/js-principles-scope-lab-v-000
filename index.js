@@ -12,9 +12,7 @@ function overwriteBestCustomer(){
   return customerName = customerName.toUpperCase();
 }
 
-function leastFavoriteCustomer (){
-  return customerName = customerName.toUpperCase();
-}
+const leastFavoriteCustomer = "";
 
 function changeLeastFavoriteCustomer (){
   return customerName = customerName.toUpperCase();
