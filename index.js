@@ -15,5 +15,5 @@ function overwriteBestCustomer(){
 const leastFavoriteCustomer = "";
 
 function changeLeastFavoriteCustomer (){
-  return customerName = customerName.toUpperCase();
+  return leastFavoriteCustomer = "danny";
 }
