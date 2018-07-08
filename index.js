@@ -8,8 +8,8 @@ function setBestCustomer(){
   bestCustomer = 'not bob';
 }
 
-function overwriteBestCustomer(){
-  var bestCustomer = 'tony';
+function overwriteBestCustomer(customer){
+  var bestCustomer = customer;
 }
 
 const leastFavoriteCustomer = "steve";
